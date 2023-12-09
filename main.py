@@ -26,10 +26,11 @@ if __name__ == "__main__":
     rag_chain = build_rag_pipeline()
     print('Retrieving answer...')
     answer = get_rag_response(args.input, rag_chain)
+    answer = str(answer).strip()
 
     end = timeit.default_timer()
 
-    print(f'\nAnswer:\n {answer}')
+    print(f'\nAnswer:\n{answer}')
     print('=' * 50)
 
     print(f"Time to retrieve answer: {end - start}")
