@@ -1,7 +1,7 @@
 # Invoice data processing LLM RAG on CPU with Ollama, LlamaIndex and Weaviate
 
 
-<a href="https://www.youtube.com/watch?v=Higmr8qMoNk" target="_blank">Update Video URL</a>
+<a href="https://www.youtube.com/watch?v=tiYQiWWd7rE" target="_blank">Enhancing RAG: LlamaIndex and Ollama for On-Premise Data Extraction</a>
 
 ___
 
