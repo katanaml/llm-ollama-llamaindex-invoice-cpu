@@ -38,7 +38,7 @@ python main.py "retrieve invoice_number, invoice_date, client_name, client_addre
 seller_address, seller_tax_id, iban, names_of_invoice_items, gross_worth_of_invoice_items and total_gross_worth"
 ```
 
-Response:
+Answer:
 
 ```json
 {
