@@ -12,8 +12,9 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
 def load_documents(docs_path):
-    documents = SimpleDirectoryReader(docs_path, required_exts=[".jpg"]).load_data()
+    documents = SimpleDirectoryReader(docs_path, required_exts=[".pdf"]).load_data()
     print(f"Loaded {len(documents)} documents")
+    print(f"First document: {documents[0]}")
     return documents
 
 

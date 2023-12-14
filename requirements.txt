@@ -1,5 +1,5 @@
-llama-index==0.9.13
-langchain==0.0.345
+llama-index==0.9.15
+langchain==0.0.350
 sentence-transformers
 weaviate-client
 pypdf
