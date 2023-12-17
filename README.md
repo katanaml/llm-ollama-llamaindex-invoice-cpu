@@ -3,6 +3,8 @@
 
 <a href="https://www.youtube.com/watch?v=tiYQiWWd7rE" target="_blank">Enhancing RAG: LlamaIndex and Ollama for On-Premise Data Extraction</a>
 
+<a href="https://www.youtube.com/watch?v=ROm0R2EdQqg" target="_blank">From Text to Vectors: Leveraging Weaviate for local RAG Implementation with LlamaIndex</a>
+
 ___
 
 ## Quickstart
